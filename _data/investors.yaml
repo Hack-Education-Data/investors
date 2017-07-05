@@ -1,73 +1,945 @@
-- Name: Bezos Family Foundation
-  Location: Mercer Island WA
-  URL: 'http://www.bezosfamilyfoundation.org/'
-  Focus: education policy
-  Funding: Jeff Bezos (Amazon)
-  Projects: 'DonorsChoose, TED Ed, MIT Media Lab'
-  Figures: Jeff Bezos
-- Name: Bill & Melinda Gates Foundation
-  Location: Seattle WA
-  URL: 'http://www.gatesfoundation.org/'
-  Focus: 'education policy, health care policy'
-  Funding: 'Bill Gates (Microsoft), Warren Buffett, Bill Gates Sr.'
-  Projects: >-
-    Common Core State Standards, NewSchools Venture Fund, Discovery Institute,
-    Teach for America, Edsurge
-  Figures: 'Bill Gates, Melinda Gates, James Shelton, Warren Buffett'
-- Name: Eli and Edythe Broad Foundation
-  Location: Los Angeles CA
-  URL: 'http://broadfoundation.org/'
-  Focus: 'education policy, arts'
-  Funding: Eli Broad (KB Home and SunAmerica Inc.)
-  Projects: 'KIPP, Success Academy, Teach for America'
-  Figures: Eli Broad
-- Name: Joan D. and Catherine T. MacArthur Foundation
-  Location: Chicago IL
-  URL: 'https://www.macfound.org/'
-  Focus: 'education policy, employment policy'
-  Funding: John D. MacArthur (Bankers Life and Casualty)
-  Projects: 'MacArthur Fellows, Digital Media and Learning, YouMedia, digital badges'
-  Figures: 'John Seely Brown, Marjorie Scardino, Connie Yowell'
-- Name: Joyce Foundation
-  Location: Chicago IL
-  URL: 'http://www.joycefdn.org/'
-  Focus: 'gun control, global climate change, education policy'
-  Funding: Beatrice Joyce Kean (timber industry)
-  Projects: >-
-    Edsurge, The Joan Ganz Cooney Center, New America, Education Writers
-    Association
-  Figures: 'Barack Obama, Valerie Jarrett'
-- Name: Kresge Foundation
-  Location: Troy MI
-  URL: 'http://kresge.org/'
-  Focus: 'urban policy, education'
-  Funding: Sebastian Spering Krege (Kmart)
-  Projects: 'New America Foundation, Achieving the Dream, American Council on Education'
-  Figures: Lee Bollinger
+- Name: 4.0 Partners
+  Investment: CampusLogic
+  Year: '2017'
+- Name: 500 Startups
+  Investment: Mystery Science
+  Year: '2017'
+- Name: Accomplice Ventures
+  Investment: Teachable
+  Year: '2017'
+- Name: Advance Publications
+  Investment: EverFi
+  Year: '2017'
+- Name: Advancit Capital
+  Investment: MasterClass
+  Year: '2017'
+- Name: AGP Tech
+  Investment: Nearpod
+  Year: '2017'
+- Name: Allen & Company
+  Investment: EverFi
+  Year: '2017'
+- Name: Alliance of Angels
+  Investment: Lumen Learning
+  Year: '2017'
+- Name: Alpine Meridian Ventures
+  Investment: Lingo Live
+  Year: '2017'
+- Name: Altair Ventures
+  Investment: Paragon One
+  Year: '2017'
+- Name: Ananth Narayanan
+  Investment: Unacademy
+  Year: '2017'
+- Name: Anhui Xinhua Media
+  Investment: Xueba100.com
+  Year: '2017'
+- Name: Animoca
+  Investment: TinyTap
+  Year: '2017'
+- Name: Ares Capital Corporation
+  Investment: Regent Education
+  Year: '2017'
+- Name: Arsenal Ventures
+  Investment: Nearpod
+  Year: '2017'
+- Name: Axel Springer
+  Investment: WayUp
+  Year: '2017'
+- Name: Baltimore Angels
+  Investment: Legends of Learning
+  Year: '2017'
+- Name: Bessemer Venture Partners
+  Investment: Lingokids
+  Year: '2017'
+- Name: Better Ventures
+  Investment: BookNook
+  Year: '2017'
+- Name: Big Sur Ventures
+  Investment: Lingokids
+  Year: '2017'
+- Name: Binny Bansal
+  Investment: Unacademy
+  Year: '2017'
+- Name: Bionic Fund
+  Investment: KidPass
+  Year: '2017'
+- Name: Bisk Ventures
+  Investment: AdmitHub
+  Year: '2017'
+- Name: Bloomberg Beta
+  Investment: MasterClass
+  Year: '2017'
+- Name: Blume Ventures
+  Investment: Unacademy
+  Year: '2017'
+- Name: Boat Rocker Ventures
+  Investment: MarcoPolo Learning
+  Year: '2017'
+- Name: BoxGroup
+  Investment: WayUp
+  Year: '2017'
+- Name: Brand Capital
+  Investment: NeoStencil
+  Year: '2017'
+- Name: Brentwood Associates
+  Investment: ClassWallet
+  Year: '2017'
+- Name: Breyer Capital Venture
+  Investment: Grammarly
+  Year: '2017'
+- Name: Butler University
+  Investment: ClearScholar
+  Year: '2017'
+- Name: BV Investment Partners
+  Investment: Hero K12
+  Year: '2017'
+- Name: CAA Ventures
+  Investment: WayUp
+  Year: '2017'
+- Name: Cai Wensheng
+  Investment: Snapask
+  Year: '2017'
+- Name: CapitalG (formerly Google Capital)
+  Investment: Cuemath
+  Year: '2017'
+- Name: Carthona Capital
+  Investment: Credible
+  Year: '2017'
+- Name: Caterina Fake
+  Investment: Outschool
+  Year: '2017'
+- Name: Chan Zuckerberg Initiative
+  Investment: Brightwheel
+  Year: '2017'
+- Name: Charlie Cheever
+  Investment: AdmitHub
+  Year: '2017'
+- Name: China Merchants Capital
+  Investment: Xueba100.com
+  Year: '2017'
+- Name: China-Israel Education VC Fund
+  Investment: CodeMonkey
+  Year: '2017'
+- Name: Chris Gabrieli
+  Investment: AdmitHub
+  Year: '2017'
+- Name: Chrysalis Ventures
+  Investment: Regent Education
+  Year: '2017'
+- Name: Chrystal Capital
+  Investment: MiDrive
+  Year: '2017'
+- Name: Cindy and Paul Skjodt
+  Investment: ClearScholar
+  Year: '2017'
+- Name: City Light Capital
+  Investment: Trilogy Education
+  Year: '2017'
+- Name: Clive Cowdery
+  Investment: MyTutor
+  Year: '2017'
+- Name: Cocoon Ignite Ventures
+  Investment: KidPass
+  Year: '2017'
+- Name: Collaborative Fund
+  Investment: Outschool
+  Year: '2017'
+- Name: Colorado Impact Fund
+  Investment: Schoolrunner
+  Year: '2017'
+- Name: Comcast Ventures
+  Investment: College Ave
+  Year: '2017'
+- Name: Contour Venture Partners
+  Investment: Voxy
+  Year: '2017'
+- Name: CoVenture
+  Investment: KidPass
+  Year: '2017'
+- Name: Creative Arts Agency
+  Investment: CreativeLive
+  Year: '2017'
+- Name: Cross Culture Ventures
+  Investment: Wonderschool
+  Year: '2017'
+- Name: daphni
+  Investment: Holberton School
+  Year: '2017'
+- Name: DCM Ventures
+  Investment: Galore
+  Year: '2017'
+- Name: Digitalis Ventures
+  Investment: CareDox
+  Year: '2017'
+- Name: DST Global
+  Investment: MarcoPolo Learning
+  Year: '2017'
+- Name: Edelweiss
+  Investment: Wonderschool
+  Year: '2017'
+- Name: Edulab
+  Investment: CodeMonkey
+  Year: '2017'
+- Name: Elevate Ventures
+  Investment: ClearScholar
+  Year: '2017'
+- Name: Emergence Capital Partners
+  Investment: Top Hat
+  Year: '2017'
+- Name: Endeavor Catalyst
+  Investment: Yogome
+  Year: '2017'
+- Name: Eniac Ventures
+  Investment: Brightwheel
+  Year: '2017'
+- Name: Enterprise Ireland
+  Investment: Adeptemy
+  Year: '2017'
+- Name: Entrepreneurs Expansion Fund
+  Investment: Lingo Live
+  Year: '2017'
+- Name: Eric Schmidt
+  Investment: EverFi
+  Year: '2017'
+- Name: Ev Williams
+  Investment: EverFi
+  Year: '2017'
+- Name: Evolution Media Capital
+  Investment: MakeBlock
+  Year: '2017'
+- Name: Female Founders Fund
+  Investment: WayUp
+  Year: '2017'
+- Name: First Round
+  Investment: Wonderschool
+  Year: '2017'
+- Name: First Round Capital
+  Investment: CareDox
+  Year: '2017'
+- Name: First Round Capital
+  Investment: Abl
+  Year: '2017'
+- Name: Five Elms Capital
+  Investment: Apptegy
+  Year: '2017'
+- Name: FJ Labs
+  Investment: KidPass
+  Year: '2017'
+- Name: Folens
+  Investment: Adeptemy
+  Year: '2017'
+- Name: Follett Corporation
+  Investment: Lumen Learning
+  Year: '2017'
+- Name: Force Over Mass
+  Investment: MiDrive
+  Year: '2017'
+- Name: Foundation Capital
+  Investment: Paragon One
+  Year: '2017'
+- Name: Fresco Capital
+  Investment: Lingo Live
+  Year: '2017'
+- Name: FundersClub
+  Investment: AdmitHub
+  Year: '2017'
+- Name: FundersClub
+  Investment: Outschool
+  Year: '2017'
+- Name: FundersClub
+  Investment: Wonderschool
+  Year: '2017'
+- Name: Gauge Capital
+  Investment: eDynamic Learning
+  Year: '2017'
+- Name: Gautam Chhaochharia
+  Investment: Nactus
+  Year: '2017'
+- Name: General Catalyst
+  Investment: WayUp
+  Year: '2017'
+- Name: General Catalyst Venture
+  Investment: Grammarly
+  Year: '2017'
+- Name: Georgian Partners
+  Investment: Top Hat
+  Year: '2017'
+- Name: GGV Capital
+  Investment: Brightwheel
+  Year: '2017'
+- Name: Girish Mathrubootham
+  Investment: Unacademy
+  Year: '2017'
+- Name: Giza Venture Capital
+  Investment: CareDox
+  Year: '2017'
+- Name: GoAhead Ventures
+  Investment: OOHLALA
+  Year: '2017'
+- Name: Golden Venture Partners
+  Investment: Brightwheel
+  Year: '2017'
+- Name: Golden Venture Partners
+  Investment: Top Hat
+  Year: '2017'
+- Name: GPI Capital
+  Investment: SoFi
+  Year: '2017'
+- Name: Grand Fight Investment
+  Investment: Xueba100.com
+  Year: '2017'
+- Name: Greylock Partners
+  Investment: CreativeLive
+  Year: '2017'
+- Name: Growth Street Partners
+  Investment: Pear Deck
+  Year: '2017'
+- Name: GSMA
+  Investment: Ruangguru
+  Year: '2017'
+- Name: GSV Acceleration
+  Investment: Voxy
+  Year: '2017'
+- Name: GSV Acceleration
+  Investment: Raise.me
+  Year: '2017'
+- Name: GSV Acceleration
+  Investment: MasterClass
+  Year: '2017'
+- Name: GSV Acceleration
+  Investment: CreativeLive
+  Year: '2017'
+- Name: GSV Acceleration Fund
+  Investment: Nearpod
+  Year: '2017'
+- Name: GSV Asset Management
+  Investment: Coursera
+  Year: '2017'
+- Name: GSV Capital
+  Investment: Motimatic
+  Year: '2017'
+- Name: HENQ Invest
+  Investment: Housinganywhere.com
+  Year: '2017'
+- Name: High Alpha Capital
+  Investment: ClearScholar
+  Year: '2017'
+- Name: Highland Capital Partners
+  Investment: Trilogy Education
+  Year: '2017'
+- Name: Holiday Extras
+  Investment: MiDrive
+  Year: '2017'
+- Name: Honeycomb
+  Investment: Penpal Schools
+  Year: '2017'
+- Name: Hong Leong Group
+  Investment: Smartup.io
+  Year: '2017'
+- Name: Horizons Ventures
+  Investment: MarcoPolo Learning
+  Year: '2017'
+- Name: Human Ventures
+  Investment: Clark
+  Year: '2017'
+- Name: HV Holtzbrinck Ventures
+  Investment: Lingokids
+  Year: '2017'
+- Name: Hyde Park Venture Partners
+  Investment: Pear Deck
+  Year: '2017'
+- Name: ICONIQ
+  Investment: Brightwheel
+  Year: '2017'
+- Name: IIFD Fund
+  Investment: Cinemood
+  Year: '2017'
+- Name: Impact Engine
+  Investment: BookNook
+  Year: '2017'
+- Name: Index Ventures
+  Investment: WayUp
+  Year: '2017'
+- Name: India Educational Investment Fund
+  Investment: Chippersage Education
+  Year: '2017'
+- Name: Inherent Group
+  Investment: Voxy
+  Year: '2017'
+- Name: Inherent Group
+  Investment: Examity
+  Year: '2017'
+- Name: Inimiti VC
+  Investment: TinyTap
+  Year: '2017'
+- Name: Initial Capital
+  Investment: MiDrive
+  Year: '2017'
+- Name: Innovation Endeavors
+  Investment: Epic!
+  Year: '2017'
+- Name: iNovia Capital
+  Investment: Top Hat
+  Year: '2017'
+- Name: Institutional Venture Partners
+  Investment: MasterClass
+  Year: '2017'
+- Name: Institutional Venture Partners
+  Investment: Grammarly
+  Year: '2017'
+- Name: Invictus Capital
+  Investment: CodeMonkey
+  Year: '2017'
+- Name: J21 Corporation
+  Investment: CodeMonkey
+  Year: '2017'
+- Name: Jared Leto
+  Investment: CreativeLive
+  Year: '2017'
+- Name: Javelin Venture Partners
+  Investment: MasterClass
+  Year: '2017'
+- Name: Javelin Venture Partners
+  Investment: KidPass
+  Year: '2017'
+- Name: Jeff Bezos
+  Investment: EverFi
+  Year: '2017'
+- Name: Jeff Xiong
+  Investment: Paragon One
+  Year: '2017'
+- Name: Jefferson Education Accelerator
+  Investment: Motimatic
+  Year: '2017'
+- Name: Jefferson Education Accelerator
+  Investment: Thinkster Math (formerly Tabtor Math)
+  Year: '2017'
+- Name: Jerry Murdock
+  Investment: Holberton School
+  Year: '2017'
+- Name: Jimmy Lai
+  Investment: Paragon One
+  Year: '2017'
+- Name: JME Venture Capital
+  Investment: Lingokids
+  Year: '2017'
+- Name: Joe Montana
+  Investment: OOHLALA
+  Year: '2017'
+- Name: Kae Capital
+  Investment: Learntron
+  Year: '2017'
+- Name: Kejora
+  Investment: Snapask
+  Year: '2017'
+- Name: Kelvin Capital
+  Investment: MiDrive
+  Year: '2017'
+- Name: Ken Lowe
+  Investment: Verso Learning
+  Year: '2017'
+- Name: Kennet Partners
+  Investment: Revolution Prep
+  Year: '2017'
+- Name: Kevin Morgan
+  Investment: AdmitHub
+  Year: '2017'
+- Name: Khosla Ventures
+  Investment: Kiddom
+  Year: '2017'
+- Name: Kindred Capital
+  Investment: Mrs. Wordsmith
+  Year: '2017'
+- Name: Kleiner Perkins Caufield & Byers
+  Investment: Coursera
+  Year: '2017'
+- Name: Knight Enterprise Fund
+  Investment: Nearpod
+  Year: '2017'
+- Name: Krillion Ventures
+  Investment: Nearpod
+  Year: '2017'
+- Name: Kunal Shah
+  Investment: Unacademy
+  Year: '2017'
+- Name: Lampert Foundation
+  Investment: Coursera
+  Year: '2017'
+- Name: Leading Edge Ventures
+  Investment: College Ave
+  Year: '2017'
+- Name: LEAF Investments
+  Investment: Zzish
+  Year: '2017'
+- Name: Learn Capital
+  Investment: Paragon One
+  Year: '2017'
+- Name: Learn Capital
+  Investment: Outschool
+  Year: '2017'
+- Name: Learn Capital
+  Investment: Mystery Science
+  Year: '2017'
+- Name: Learn Capital
+  Investment: Coursera
+  Year: '2017'
+- Name: Learners Fund
+  Investment: Top Hat
+  Year: '2017'
+- Name: Legend Venture Partners
+  Investment: Noodle Companies
+  Year: '2017'
+- Name: Lerer Hippeau Ventures
+  Investment: WayUp
+  Year: '2017'
+- Name: Lerer Hippeau Ventures
+  Investment: Wonderschool
+  Year: '2017'
+- Name: Li Yuan Ventures
+  Investment: Paragon One
+  Year: '2017'
+- Name: Local Globe
+  Investment: Show My Homework
+  Year: '2017'
+- Name: Lowercase Capital
+  Investment: Brightwheel
+  Year: '2017'
 - Name: Lumina Foundation
-  Location: Indianapolis IN
-  URL: 'https://www.luminafoundation.org/'
-  Focus: higher education policy
-  Funding: USA Group (student loans)
-  Projects: >-
-    American Council on Education, Competency-Based Education Network, ACT Inc.,
-    Urban Institute
-  Figures: 'Martha Lamkin, Jamie Merisotis'
-- Name: Walton Familiy Foundation
-  Location: Bentonville AR
-  URL: 'http://www.waltonfamilyfoundation.org/'
-  Focus: education policy
-  Funding: Sam Walton (Walmart)
-  Projects: >-
-    Alliance for School Choice, Americans for Prosperity, California Charter
-    Schools Association, Teach for America
-  Figures: Alice Walton
-- Name: William and Flora Hewlett Foundation
-  Location: Menlo Park CA
-  URL: 'http://www.hewlett.org/'
-  Focus: 'global development, educaiton policy'
-  Funding: William Hewlett (Hewlett-Packard)
-  Projects: >-
-    Alliance for Excellence in Education, America Achieves, Buck Institute for
-    Education
-  Figures: Walter B. Hewlett
+  Investment: Civitas Learning
+  Year: '2017'
+- Name: Main Street Advisors
+  Investment: EverFi
+  Year: '2017'
+- Name: Marc Benioff
+  Investment: Nearpod
+  Year: '2017'
+- Name: Marguerite Fournié
+  Investment: Marbotic
+  Year: '2017'
+- Name: Mark Cuban Companies
+  Investment: Brightwheel
+  Year: '2017'
+- Name: Mark Rampolla
+  Investment: Ozobot
+  Year: '2017'
+- Name: Matrix Partners India
+  Investment: Testbook
+  Year: '2017'
+- Name: Matt Brezina
+  Investment: Teachable
+  Year: '2017'
+- Name: Menlo Ventures
+  Investment: Epic!
+  Year: '2017'
+- Name: Michael & Susan Dell Foundation
+  Investment: Chippersage Education
+  Year: '2017'
+- Name: Michelin Development
+  Investment: Marbotic
+  Year: '2017'
+- Name: Mike McCaffery
+  Investment: Motimatic
+  Year: '2017'
+- Name: Mirabelle Investment Fund
+  Investment: Marbotic
+  Year: '2017'
+- Name: Mobeus Equity Partners
+  Investment: MyTutor
+  Year: '2017'
+- Name: Moelis Australia Asset Management
+  Investment: Smart Sparrow
+  Year: '2017'
+- Name: Morningside Technology Ventures
+  Investment: CollegeVine (formerly Admissions Hero)
+  Year: '2017'
+- Name: MX Investments
+  Investment: MasterClass
+  Year: '2017'
+- Name: Naval Ravikant
+  Investment: Teachable
+  Year: '2017'
+- Name: NE YO
+  Investment: Holberton School
+  Year: '2017'
+- Name: New Enterprise Associates
+  Investment: MasterClass
+  Year: '2017'
+- Name: New Enterprise Associates
+  Investment: Coursera
+  Year: '2017'
+- Name: New Markets Venture Partners
+  Investment: Motimatic
+  Year: '2017'
+- Name: New Markets Venture Partners
+  Investment: Regent Education
+  Year: '2017'
+- Name: New York Angels
+  Investment: TinyTap
+  Year: '2017'
+- Name: Nexus Venture Partners
+  Investment: Unacademy
+  Year: '2017'
+- Name: Norwest Venture Partners
+  Investment: Galore
+  Year: '2017'
+- Name: Notion Capital
+  Investment: Smartup.io
+  Year: '2017'
+- Name: Novel TMT Ventures
+  Investment: MasterClass
+  Year: '2017'
+- Name: One Ventures
+  Investment: Smart Sparrow
+  Year: '2017'
+- Name: Osman Rashid
+  Investment: OOHLALA
+  Year: '2017'
+- Name: OurCrowd-Gcai
+  Investment: WayUp
+  Year: '2017'
+- Name: Owl Ventures
+  Investment: Lingo Live
+  Year: '2017'
+- Name: Owl Ventures
+  Investment: Raise.me
+  Year: '2017'
+- Name: Owl Ventures
+  Investment: Abl
+  Year: '2017'
+- Name: Paragon Trust
+  Investment: NeoStencil
+  Year: '2017'
+- Name: Peter Holt
+  Investment: Penpal Schools
+  Year: '2017'
+- Name: Portland Street Fund
+  Investment: Lumen Learning
+  Year: '2017'
+- Name: Prolog Ventures
+  Investment: CareDox
+  Year: '2017'
+- Name: Qiming Venture Partners
+  Investment: Xueba100.com
+  Year: '2017'
+- Name: R Balachandar
+  Investment: Nactus
+  Year: '2017'
+- Name: Rakuten Ventures
+  Investment: Epic!
+  Year: '2017'
+- Name: Reach Capital
+  Investment: AdmitHub
+  Year: '2017'
+- Name: Reach Capital
+  Investment: Holberton School
+  Year: '2017'
+- Name: Reach Capital
+  Investment: Nearpod
+  Year: '2017'
+- Name: Reach Capital
+  Investment: Epic!
+  Year: '2017'
+- Name: Reach Capital
+  Investment: BookNook
+  Year: '2017'
+- Name: Reach Capital
+  Investment: Mystery Science
+  Year: '2017'
+- Name: Reach Capital
+  Investment: Mrs. Wordsmith
+  Year: '2017'
+- Name: Reach Capital
+  Investment: Abl
+  Year: '2017'
+- Name: Real Ventures
+  Investment: OOHLALA
+  Year: '2017'
+- Name: Real Web
+  Investment: Housinganywhere.com
+  Year: '2017'
+- Name: Redpoint
+  Investment: Raise.me
+  Year: '2017'
+- Name: Regal Funds Management
+  Investment: Credible
+  Year: '2017'
+- Name: Relay Ventures
+  Investment: AdmitHub
+  Year: '2017'
+- Name: Rethink Education
+  Investment: Voxy
+  Year: '2017'
+- Name: Rethink Education
+  Investment: Abl
+  Year: '2017'
+- Name: Rethink Education
+  Investment: Trilogy Education
+  Year: '2017'
+- Name: REV
+  Investment: CreativeLive
+  Year: '2017'
+- Name: Richard Branson
+  Investment: CreativeLive
+  Year: '2017'
+- Name: Ron Suber
+  Investment: Credible
+  Year: '2017'
+- Name: Ropart Asset Management
+  Investment: Mrs. Wordsmith
+  Year: '2017'
+- Name: RRE Ventures
+  Investment: Brightwheel
+  Year: '2017'
+- Name: SaatchiNvest
+  Investment: Mrs. Wordsmith
+  Year: '2017'
+- Name: Sabadell Venture Capital
+  Investment: Lingokids
+  Year: '2017'
+- Name: Sachin Bansal
+  Investment: Unacademy
+  Year: '2017'
+- Name: Salesforce Ventures
+  Investment: Viridis Learning
+  Year: '2017'
+- Name: Sam Lessin
+  Investment: MasterClass
+  Year: '2017'
+- Name: Sandbox Partners
+  Investment: Tinybop
+  Year: '2017'
+- Name: Sandeep Aggarwal
+  Investment: Nactus
+  Year: '2017'
+- Name: Sandeep Tandon
+  Investment: Unacademy
+  Year: '2017'
+- Name: Scott Cook
+  Investment: Nearpod
+  Year: '2017'
+- Name: Seaya Ventures
+  Investment: Yogome
+  Year: '2017'
+- Name: Seedcamp
+  Investment: MarcoPolo Learning
+  Year: '2017'
+- Name: Sequoia India
+  Investment: Cuemath
+  Year: '2017'
+- Name: Sesame Workshop
+  Investment: Outschool
+  Year: '2017'
+- Name: Shenzhen Capital Group
+  Investment: MakeBlock
+  Year: '2017'
+- Name: SignalFire Venture
+  Investment: Grammarly
+  Year: '2017'
+- Name: Signe Ostby
+  Investment: Nearpod
+  Year: '2017'
+- Name: Silicon Valley Bank
+  Investment: CollegeVine (formerly Admissions Hero)
+  Year: '2017'
+- Name: Silver Lake
+  Investment: SoFi
+  Year: '2017'
+- Name: Sinovation Ventures
+  Investment: Abl
+  Year: '2017'
+- Name: SJF Ventures
+  Investment: Raise.me
+  Year: '2017'
+- Name: SJF Ventures
+  Investment: Voxy
+  Year: '2017'
+- Name: Social Capital
+  Investment: CreativeLive
+  Year: '2017'
+- Name: Social Impact Ventures
+  Investment: Bomberbot
+  Year: '2017'
+- Name: Social Starts
+  Investment: Epic!
+  Year: '2017'
+- Name: SoftBank
+  Investment: SoFi
+  Year: '2017'
+- Name: SoftTech VC
+  Investment: Top Hat
+  Year: '2017'
+- Name: SoftTech VC
+  Investment: Wonderschool
+  Year: '2017'
+- Name: Sophia Bush
+  Investment: Penpal Schools
+  Year: '2017'
+- Name: Spark Capital
+  Investment: Grammarly
+  Year: '2017'
+- Name: Spectrum 28
+  Investment: Outschool
+  Year: '2017'
+- Name: Stanford Angels and Entrepreneurs
+  Investment: Unacademy
+  Year: '2017'
+- Name: Stanford-StartX Fund
+  Investment: Nearpod
+  Year: '2017'
+- Name: Stephen Simon
+  Investment: ClearScholar
+  Year: '2017'
+- Name: Storm Ventures
+  Investment: Nearpod
+  Year: '2017'
+- Name: SV Angel
+  Investment: WayUp
+  Year: '2017'
+- Name: SV Angel
+  Investment: Outschool
+  Year: '2017'
+- Name: Swami Shrikanthanand
+  Investment: Resume Clip
+  Year: '2017'
+- Name: SWaN
+  Investment: Noodle Companies
+  Year: '2017'
+- Name: Tashish Tulsian
+  Investment: Unacademy
+  Year: '2017'
+- Name: Tencent
+  Investment: Yuanfandao
+  Year: '2017'
+- Name: TEXO Ventures
+  Investment: CareDox
+  Year: '2017'
+- Name: Thayer Ventures
+  Investment: Viridis Learning
+  Year: '2017'
+- Name: The Colorado Impact Fund
+  Investment: SecureSet Academy
+  Year: '2017'
+- Name: The Rise Fund
+  Investment: EverFi
+  Year: '2017'
+- Name: The Yard Ventures
+  Investment: AdmitHub
+  Year: '2017'
+- Name: Thomas Hoegh
+  Investment: MyTutor
+  Year: '2017'
+- Name: TIA Ventures
+  Investment: KidPass
+  Year: '2017'
+- Name: TPG Growth
+  Investment: EverFi
+  Year: '2017'
+- Name: Tracxn Labs
+  Investment: Unacademy
+  Year: '2017'
+- Name: Translink Capital
+  Investment: Epic!
+  Year: '2017'
+- Name: Tribeca Venture Partners
+  Investment: Ozobot
+  Year: '2017'
+- Name: Trinity Ventures
+  Investment: WayUp
+  Year: '2017'
+- Name: Trustbridge Partners
+  Investment: Xueba100.com
+  Year: '2017'
+- Name: Union Square Ventures
+  Investment: Top Hat
+  Year: '2017'
+- Name: Uniseed Ventures
+  Investment: Smart Sparrow
+  Year: '2017'
+- Name: University Ventures
+  Investment: AdmitHub
+  Year: '2017'
+- Name: University Ventures
+  Investment: OOHLALA
+  Year: '2017'
+- Name: University Ventures
+  Investment: Motimatic
+  Year: '2017'
+- Name: University Ventures
+  Investment: Examity
+  Year: '2017'
+- Name: University Ventures
+  Investment: CollegeVine (formerly Admissions Hero)
+  Year: '2017'
+- Name: University Ventures
+  Investment: Paragon One
+  Year: '2017'
+- Name: Urban Innovation Fund
+  Investment: BookNook
+  Year: '2017'
+- Name: Valhalla Charitable Foundation
+  Investment: Civitas Learning
+  Year: '2017'
+- Name: VARIV Capital
+  Investment: Yogome
+  Year: '2017'
+- Name: Verlinvest
+  Investment: BYJU's
+  Year: '2017'
+- Name: Veronis Suhler Stevenson
+  Investment: Vkidz
+  Year: '2017'
+- Name: Version One Ventures
+  Investment: Top Hat
+  Year: '2017'
+- Name: Vertex Ventures
+  Investment: Xueba100.com
+  Year: '2017'
+- Name: Vijay Shekhar Sharma
+  Investment: Unacademy
+  Year: '2017'
+- Name: Village Capital
+  Investment: Pear Deck
+  Year: '2017'
+- Name: Warburg Pincus
+  Investment: Yuanfandao
+  Year: '2017'
+- Name: Waterbridge Ventures
+  Investment: Unacademy
+  Year: '2017'
+- Name: Weld North
+  Investment: Voxy
+  Year: '2017'
+- Name: Welight Capital
+  Investment: Snapask
+  Year: '2017'
+- Name: WI Harper Group
+  Investment: Epic!
+  Year: '2017'
+- Name: Wild Blue Cohort
+  Investment: MiDrive
+  Year: '2017'
+- Name: Winklevoss Capital
+  Investment: Clark
+  Year: '2017'
+- Name: Y Combinator
+  Investment: OOHLALA
+  Year: '2017'
+- Name: Y Combinator
+  Investment: Paragon One
+  Year: '2017'
+- Name: Y Combinator
+  Investment: KidPass
+  Year: '2017'
+- Name: Y Combinator
+  Investment: Outschool
+  Year: '2017'
+- Name: Y Combinator
+  Investment: Mystery Science
+  Year: '2017'
+- Name: Yada Education
+  Investment: Xueba100.com
+  Year: '2017'
+- Name: Yan-David Erlich
+  Investment: MasterClass
+  Year: '2017'
