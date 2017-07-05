@@ -3,5 +3,17 @@ layout: default
 title: Ed-Tech Investors
 ---
 
-<p>Test 1 </p>
+<!-- Investors -->
+{% assign investors = site.data.investors %}
+{% assign investors = investors | sort:"Name" %}
 
+<!-- Document -->
+
+{% for investor in investors %}
+
+<p><strong><u>{{ investor.Name }}</u></strong>: 
+
+<p>{{ investor.Investment }}
+
+<hr >
+{% endfor %}
