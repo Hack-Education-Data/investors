@@ -1,0 +1,21 @@
+---
+layout: default
+title: Ed-Tech Investors 2014
+---
+
+<h1>2014 Investors</h1>
+
+<!-- Investors -->
+{% assign investors = site.data.2014 %}
+{% assign investors = investors | sort:"Name" %}
+
+<!-- Document -->
+
+{% for investor in investors %}
+
+<p><strong><u>{{ investor.Name }}</u></strong>: 
+
+<p>{{ investor.Investment }}
+
+<hr >
+{% endfor %}
