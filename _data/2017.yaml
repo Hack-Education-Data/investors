@@ -1,3 +1,9 @@
+- Name: 1776 Capital
+  Investment: MPOWER Financing
+  Notes: ''
+- Name: 3311 Ventures
+  Investment: Sawyer
+  Notes: ''
 - Name: 4.0 Partners
   Investment: CampusLogic
   Notes: ''
@@ -10,8 +16,14 @@
 - Name: Accomplice Ventures
   Investment: Teachable
   Notes: ''
+- Name: ACT
+  Investment: New Markets Venture Partners
+  Notes: ''
 - Name: Advance Publications
   Investment: EverFi
+  Notes: ''
+- Name: Advance Venture Partners
+  Investment: Sawyer
   Notes: ''
 - Name: Advancit Capital
   Investment: MasterClass
@@ -24,6 +36,9 @@
   Notes: ''
 - Name: Alliance of Angels
   Investment: Lumen Learning
+  Notes: ''
+- Name: AlphaCode Club
+  Investment: Prodigy Finance
   Notes: ''
 - Name: Alpine Investors
   Investment: Escape Technology
@@ -58,6 +73,9 @@
 - Name: Axel Springer
   Investment: WayUp
   Notes: ''
+- Name: Balderton Capital
+  Investment: Prodigy Finance
+  Notes: ''
 - Name: Baltimore Angels
   Investment: Legends of Learning
   Notes: ''
@@ -91,6 +109,9 @@
 - Name: Boat Rocker Ventures
   Investment: MarcoPolo Learning
   Notes: ''
+- Name: Bob Xu ZhenEdu Fund
+  Investment: Magic Ears
+  Notes: ''
 - Name: BoxGroup
   Investment: WayUp
   Notes: ''
@@ -106,6 +127,9 @@
 - Name: Breyer Capital Venture
   Investment: Grammarly
   Notes: ''
+- Name: Brighteye Ventures
+  Investment: Lightneer
+  Notes: ''
 - Name: Butler University
   Investment: ClearScholar
   Notes: ''
@@ -117,6 +141,9 @@
   Notes: ''
 - Name: Cai Wensheng
   Investment: Snapask
+  Notes: ''
+- Name: Candice Faktor
+  Investment: Flipd
   Notes: ''
 - Name: CapitalG
   Investment: Cuemath
@@ -130,6 +157,9 @@
 - Name: Chan Zuckerberg Initiative
   Investment: Brightwheel
   Notes: ''
+- Name: Chan Zuckerberg Initiative
+  Investment: Sawyer
+  Notes: ''
 - Name: Charlie Cheever
   Investment: AdmitHub
   Notes: ''
@@ -138,6 +168,9 @@
   Notes: ''
 - Name: Cherubic Ventures
   Investment: Liulishuo
+  Notes: ''
+- Name: Chilango Ventures
+  Investment: MPOWER Financing
   Notes: ''
 - Name: China Media Capital
   Investment: Liulishuo
@@ -177,6 +210,9 @@
   Notes: ''
 - Name: Collaborative Fund
   Investment: PeopleGrove
+  Notes: ''
+- Name: Collaborative Fund
+  Investment: Sawyer
   Notes: ''
 - Name: Colorado Impact Fund
   Investment: Schoolrunner
@@ -259,6 +295,9 @@
 - Name: Female Founders Fund
   Investment: WayUp
   Notes: ''
+- Name: Female Founders Fund
+  Investment: Sawyer
+  Notes: ''
 - Name: First Round
   Investment: Wonderschool
   Notes: ''
@@ -334,6 +373,9 @@
 - Name: GGV Capital
   Investment: Liulishuo
   Notes: ''
+- Name: GGV Capital
+  Investment: Zuoyebang
+  Notes: ''
 - Name: Girish Mathrubootham
   Investment: Unacademy
   Notes: ''
@@ -379,6 +421,9 @@
 - Name: GSV Acceleration
   Investment: Voxy
   Notes: ''
+- Name: GSV Acceleration
+  Investment: Lightneer
+  Notes: ''
 - Name: GSV Acceleration Fund
   Investment: Nearpod
   Notes: ''
@@ -387,6 +432,9 @@
   Notes: ''
 - Name: GSV Capital
   Investment: Motimatic
+  Notes: ''
+- Name: H Capital
+  Investment: Zuoyebang
   Notes: ''
 - Name: Hearst Ventures
   Investment: Liulishuo
@@ -436,6 +484,9 @@
 - Name: Index Ventures
   Investment: WayUp
   Notes: ''
+- Name: Index Ventures
+  Investment: Prodigy Finance
+  Notes: ''
 - Name: India Educational Investment Fund
   Investment: Chippersage Education
   Notes: ''
@@ -465,6 +516,9 @@
   Notes: ''
 - Name: Invictus Capital
   Investment: CodeMonkey
+  Notes: ''
+- Name: IPR.VC
+  Investment: Lightneer
   Notes: ''
 - Name: J21 Corporation
   Investment: CodeMonkey
@@ -583,6 +637,9 @@
 - Name: Learners Fund
   Investment: Top Hat
   Notes: ''
+- Name: Legend Capital
+  Investment: Zuoyebang
+  Notes: ''
 - Name: Legend Venture Partners
   Investment: Noodle Companies
   Notes: ''
@@ -670,6 +727,9 @@
 - Name: NE YO
   Investment: Holberton School
   Notes: ''
+- Name: Nesta Impact Investors
+  Investment: Sumdog
+  Notes: ''
 - Name: New Enterprise Associates
   Investment: Coursera
   Notes: ''
@@ -703,6 +763,9 @@
 - Name: Novel TMT Ventures
   Investment: MasterClass
   Notes: ''
+- Name: Omidyar Network
+  Investment: Tinkergarten
+  Notes: ''
 - Name: One Ventures
   Investment: Smart Sparrow
   Notes: ''
@@ -720,6 +783,9 @@
   Notes: ''
 - Name: Owl Ventures
   Investment: Raise.me
+  Notes: ''
+- Name: Owl Ventures
+  Investment: Tinkergarten
   Notes: ''
 - Name: Paragon Trust
   Investment: NeoStencil
@@ -774,6 +840,12 @@
   Notes: ''
 - Name: Reach Capital
   Investment: PeopleGrove
+  Notes: ''
+- Name: Reach Capital
+  Investment: Lightneer
+  Notes: ''
+- Name: Reach Capital
+  Investment: Tinkergarten
   Notes: ''
 - Name: Real Ventures
   Investment: OOHLALA
@@ -832,6 +904,9 @@
 - Name: RRE Ventures
   Investment: Brightwheel
   Notes: ''
+- Name: Ryerson Futures Inc
+  Investment: Flipd
+  Notes: ''
 - Name: SaatchiNvest
   Investment: Mrs. Wordsmith
   Notes: ''
@@ -859,11 +934,20 @@
 - Name: Scott Cook
   Investment: Nearpod
   Notes: ''
+- Name: Scottish Investment Bank
+  Investment: Sumdog
+  Notes: ''
 - Name: Seaya Ventures
   Investment: Yogome
   Notes: ''
 - Name: Seedcamp
   Investment: MarcoPolo Learning
+  Notes: ''
+- Name: Sequoia Capital
+  Investment: Zuoyebang
+  Notes: ''
+- Name: Sequoia Capital
+  Investment: VIPKID
   Notes: ''
 - Name: Sequoia India
   Investment: Cuemath
@@ -888,6 +972,9 @@
   Notes: ''
 - Name: Sinovation Ventures
   Investment: Abl
+  Notes: ''
+- Name: Sinovation Ventures
+  Investment: VIPKID
   Notes: ''
 - Name: SJF Ventures
   Investment: Raise.me
@@ -955,11 +1042,14 @@
 - Name: Tashish Tulsian
   Investment: Unacademy
   Notes: ''
-- Name: Tencent
-  Investment: BYJUs
-  Notes: ''
-- Name: Tencent
+- Name: Tencent Holdings
   Investment: Yuanfandao
+  Notes: ''
+- Name: Tencent Holdings
+  Investment: BJYU's
+  Notes: ''
+- Name: Tencent Holdings
+  Investment: VIPKID
   Notes: ''
 - Name: TEXO Ventures
   Investment: CareDox
@@ -984,6 +1074,9 @@
   Notes: ''
 - Name: TIA Ventures
   Investment: KidPass
+  Notes: ''
+- Name: Tiger Global Mauritius Fund
+  Investment: Zuoyebang
   Notes: ''
 - Name: TPG Growth
   Investment: EverFi
@@ -1042,6 +1135,9 @@
 - Name: VARIV Capital
   Investment: Yogome
   Notes: ''
+- Name: VARIV Capital
+  Investment: MPOWER Financing
+  Notes: ''
 - Name: Verlinvest
   Investment: BYJUs
   Notes: ''
@@ -1056,6 +1152,9 @@
   Notes: ''
 - Name: Vijay Shekhar Sharma
   Investment: Unacademy
+  Notes: ''
+- Name: VilCap Investments
+  Investment: MPOWER Financing
   Notes: ''
 - Name: Village Capital
   Investment: Pear Deck
@@ -1087,6 +1186,9 @@
 - Name: Xavier Niel
   Investment: Side
   Notes: ''
+- Name: Xianghe Capital
+  Investment: Zuoyebang
+  Notes: ''
 - Name: Y Combinator
   Investment: KidPass
   Notes: ''
@@ -1108,18 +1210,12 @@
 - Name: Yan-David Erlich
   Investment: MasterClass
   Notes: ''
+- Name: YP Capital
+  Investment: VIPKID
+  Notes: ''
+- Name: Yuanfudao
+  Investment: Magic Ears
+  Notes: ''
 - Name: ZhenFund
   Investment: Vidcode
-  Notes: ''
-- Name: 1776 Capital
-  Investment: MPOWER Financing
-  Notes: ''
-- Name: VilCap Investments
-  Investment: MPOWER Financing
-  Notes: ''
-- Name: Chilango Ventures
-  Investment: MPOWER Financing
-  Notes: ''
-- Name: VARIV Capital
-  Investment: MPOWER Financing
   Notes: ''
