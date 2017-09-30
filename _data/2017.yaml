@@ -10,6 +10,9 @@
 - Name: 500 Startups
   Investment: Mystery Science
   Notes: ''
+- Name: 500 Startups
+  Investment: EquitySim
+  Notes: ''
 - Name: ABI Showatech
   Investment: PlayAblo
   Notes: ''
@@ -39,6 +42,9 @@
   Notes: ''
 - Name: AlphaCode Club
   Investment: Prodigy Finance
+  Notes: ''
+- Name: AlphaX Partners Fund
+  Investment: Gaosi Education
   Notes: ''
 - Name: Alpine Investors
   Investment: Escape Technology
@@ -73,14 +79,23 @@
 - Name: Axel Springer
   Investment: WayUp
   Notes: ''
+- Name: Bain Capital
+  Investment: Evertrue
+  Notes: ''
 - Name: Balderton Capital
   Investment: Prodigy Finance
+  Notes: ''
+- Name: Balderton Capital
+  Investment: Labster
   Notes: ''
 - Name: Baltimore Angels
   Investment: Legends of Learning
   Notes: ''
 - Name: Bessemer Venture Partners
   Investment: Lingokids
+  Notes: ''
+- Name: Bessemer Venture Partners
+  Investment: Guild Education
   Notes: ''
 - Name: Better Ventures
   Investment: BookNook
@@ -106,6 +121,9 @@
 - Name: Blume Ventures
   Investment: Unacademy
   Notes: ''
+- Name: Blume Ventures
+  Investment: Unacademy
+  Notes: ''
 - Name: Boat Rocker Ventures
   Investment: MarcoPolo Learning
   Notes: ''
@@ -114,6 +132,9 @@
   Notes: ''
 - Name: BoxGroup
   Investment: WayUp
+  Notes: ''
+- Name: BoxGroup
+  Investment: MissionU
   Notes: ''
 - Name: BrainPOP
   Investment: Vidcode
@@ -129,6 +150,9 @@
   Notes: ''
 - Name: Brighteye Ventures
   Investment: Lightneer
+  Notes: ''
+- Name: Brightspark Ventures
+  Investment: Classcraft
   Notes: ''
 - Name: Butler University
   Investment: ClearScholar
@@ -160,6 +184,9 @@
 - Name: Chan Zuckerberg Initiative
   Investment: Sawyer
   Notes: ''
+- Name: Charles Huang
+  Investment: Piper
+  Notes: ''
 - Name: Charlie Cheever
   Investment: AdmitHub
   Notes: ''
@@ -172,8 +199,14 @@
 - Name: Chilango Ventures
   Investment: MPOWER Financing
   Notes: ''
+- Name: China International Capital Corporation
+  Investment: Gaosi Education
+  Notes: ''
 - Name: China Media Capital
   Investment: Liulishuo
+  Notes: ''
+- Name: China Media Capital
+  Investment: Gaosi Education
   Notes: ''
 - Name: China Merchants Capital
   Investment: Xueba100.com
@@ -189,6 +222,9 @@
   Notes: ''
 - Name: Chrystal Capital
   Investment: MiDrive
+  Notes: ''
+- Name: Chuck Templeton
+  Investment: ThinkCERCA
   Notes: ''
 - Name: Cindy and Paul Skjodt
   Investment: ClearScholar
@@ -232,6 +268,9 @@
 - Name: CoVenture
   Investment: Vidcode
   Notes: ''
+- Name: Cowboy Ventures
+  Investment: Guild Education
+  Notes: ''
 - Name: Creandum
   Investment: Kahoot
   Notes: ''
@@ -244,8 +283,14 @@
 - Name: daphni
   Investment: Holberton School
   Notes: ''
+- Name: David Helgason
+  Investment: Labster
+  Notes: ''
 - Name: DCM Ventures
   Investment: Galore
+  Notes: ''
+- Name: Deborah Quazzo
+  Investment: ThinkCERCA
   Notes: ''
 - Name: Digitalis Ventures
   Investment: CareDox
@@ -307,6 +352,12 @@
 - Name: First Round Capital
   Investment: CareDox
   Notes: ''
+- Name: First Round Capital
+  Investment: MissionU
+  Notes: ''
+- Name: FirstMark
+  Investment: MissionU
+  Notes: ''
 - Name: Five Elms Capital
   Investment: Apptegy
   Notes: ''
@@ -327,6 +378,9 @@
   Notes: ''
 - Name: Follett Corporation
   Investment: Lumen Learning
+  Notes: ''
+- Name: Follett Knowledge Fund
+  Investment: ThinkCERCA
   Notes: ''
 - Name: Force Over Mass
   Investment: MiDrive
@@ -361,7 +415,7 @@
 - Name: General Catalyst
   Investment: WayUp
   Notes: ''
-- Name: General Catalyst Venture
+- Name: General Catalyst
   Investment: Grammarly
   Notes: ''
 - Name: Georgian Partners
@@ -424,7 +478,7 @@
 - Name: GSV Acceleration
   Investment: Lightneer
   Notes: ''
-- Name: GSV Acceleration Fund
+- Name: GSV Acceleration
   Investment: Nearpod
   Notes: ''
 - Name: GSV Asset Management
@@ -435,6 +489,12 @@
   Notes: ''
 - Name: H Capital
   Investment: Zuoyebang
+  Notes: ''
+- Name: Harrison Metal
+  Investment: Guild Education
+  Notes: ''
+- Name: Haystack Partners
+  Investment: Vemo Education
   Notes: ''
 - Name: Hearst Ventures
   Investment: Liulishuo
@@ -468,6 +528,9 @@
   Notes: ''
 - Name: Hyde Park Venture Partners
   Investment: Pear Deck
+  Notes: ''
+- Name: ICG Ventures
+  Investment: Packback
   Notes: ''
 - Name: ICONIQ
   Investment: Brightwheel
@@ -547,6 +610,9 @@
 - Name: Jeff Bezos
   Investment: EverFi
   Notes: ''
+- Name: Jeff Weiner
+  Investment: ThinkCERCA
+  Notes: ''
 - Name: Jeff Xiong
   Investment: Paragon One
   Notes: ''
@@ -570,6 +636,9 @@
   Notes: ''
 - Name: Joe Montana
   Investment: OOHLALA
+  Notes: ''
+- Name: John Doerr
+  Investment: MissionU
   Notes: ''
 - Name: Kae Capital
   Investment: Learntron
@@ -634,6 +703,9 @@
 - Name: Learn Capital
   Investment: Paragon One
   Notes: ''
+- Name: Learn Capital
+  Investment: MissionU
+  Notes: ''
 - Name: Learners Fund
   Investment: Top Hat
   Notes: ''
@@ -664,6 +736,9 @@
 - Name: Lowercase Capital
   Investment: Brightwheel
   Notes: ''
+- Name: Loyal Valley Innovation Capital
+  Investment: Gaosi Education
+  Notes: ''
 - Name: Lumina Foundation
   Investment: Civitas Learning
   Notes: ''
@@ -682,6 +757,12 @@
 - Name: Mark Rampolla
   Investment: Ozobot
   Notes: ''
+- Name: MaRS Catalyst Fund
+  Investment: Classcraft
+  Notes: ''
+- Name: MassMutual Ventures
+  Investment: Tuition.io
+  Notes: ''
 - Name: Matrix Partners India
   Investment: Testbook
   Notes: ''
@@ -694,11 +775,17 @@
 - Name: Michael & Susan Dell Foundation
   Investment: Chippersage Education
   Notes: ''
+- Name: Michael & Susan Dell Foundation
+  Investment: Kings Learning
+  Notes: ''
 - Name: Michelin Development
   Investment: Marbotic
   Notes: ''
 - Name: Microsoft Ventures
   Investment: Kahoot
+  Notes: ''
+- Name: Mike Gamson
+  Investment: ThinkCERCA
   Notes: ''
 - Name: Mike McCaffery
   Investment: Motimatic
@@ -714,6 +801,9 @@
   Notes: ''
 - Name: Mohamed Mansour
   Investment: Riipen
+  Notes: ''
+- Name: Mohr Davidow Ventures
+  Investment: Tuition.io
   Notes: ''
 - Name: Morningside Technology Ventures
   Investment: CollegeVine
@@ -745,14 +835,26 @@
 - Name: New Markets Venture Partners
   Investment: Signal Vine
   Notes: ''
+- Name: New Markets Venture Partners
+  Investment: Credly
+  Notes: ''
 - Name: New York Angels
   Investment: TinyTap
+  Notes: ''
+- Name: NextGen Venture Partners
+  Investment: Vemo Education
+  Notes: ''
+- Name: Nexus Venture Partners
+  Investment: Unacademy
   Notes: ''
 - Name: Nexus Venture Partners
   Investment: Unacademy
   Notes: ''
 - Name: Northzone
   Investment: Kahoot
+  Notes: ''
+- Name: Northzone
+  Investment: Labster
   Notes: ''
 - Name: Norwest Venture Partners
   Investment: Galore
@@ -765,6 +867,9 @@
   Notes: ''
 - Name: Omidyar Network
   Investment: Tinkergarten
+  Notes: ''
+- Name: Omidyar Network
+  Investment: MissionU
   Notes: ''
 - Name: One Ventures
   Investment: Smart Sparrow
@@ -787,14 +892,23 @@
 - Name: Owl Ventures
   Investment: Tinkergarten
   Notes: ''
+- Name: Owl Ventures
+  Investment: Piper
+  Notes: ''
 - Name: Paragon Trust
   Investment: NeoStencil
+  Notes: ''
+- Name: Peak Ventures
+  Investment: EquitySim
   Notes: ''
 - Name: Peter Holt
   Investment: Penpal Schools
   Notes: ''
 - Name: Playfair Capital
   Investment: Learnerbly
+  Notes: ''
+- Name: Plum Alley
+  Investment: ThinkCERCA
   Notes: ''
 - Name: Portland Street Fund
   Investment: Lumen Learning
@@ -847,6 +961,9 @@
 - Name: Reach Capital
   Investment: Tinkergarten
   Notes: ''
+- Name: Reach Capital
+  Investment: Piper
+  Notes: ''
 - Name: Real Ventures
   Investment: OOHLALA
   Notes: ''
@@ -858,6 +975,9 @@
   Notes: ''
 - Name: Redpoint
   Investment: Raise.me
+  Notes: ''
+- Name: Redpoint Ventures
+  Investment: Guild Education
   Notes: ''
 - Name: Regal Funds Management
   Investment: Credible
@@ -886,6 +1006,9 @@
 - Name: Rethink Education
   Investment: Voxy
   Notes: ''
+- Name: Rethink Education
+  Investment: MissionU
+  Notes: ''
 - Name: REV
   Investment: CreativeLive
   Notes: ''
@@ -901,6 +1024,9 @@
 - Name: Ropart Asset Management
   Investment: Mrs. Wordsmith
   Notes: ''
+- Name: Route 66 Ventures
+  Investment: Vemo Education
+  Notes: ''
 - Name: RRE Ventures
   Investment: Brightwheel
   Notes: ''
@@ -914,6 +1040,9 @@
   Investment: Lingokids
   Notes: ''
 - Name: Sachin Bansal
+  Investment: Unacademy
+  Notes: ''
+- Name: SAIF Partners
   Investment: Unacademy
   Notes: ''
 - Name: Salesforce Ventures
@@ -934,6 +1063,9 @@
 - Name: Scott Cook
   Investment: Nearpod
   Notes: ''
+- Name: Scott Cook
+  Investment: ThinkCERCA
+  Notes: ''
 - Name: Scottish Investment Bank
   Investment: Sumdog
   Notes: ''
@@ -952,6 +1084,9 @@
 - Name: Sequoia India
   Investment: Cuemath
   Notes: ''
+- Name: Sequoia India
+  Investment: Unacademy
+  Notes: ''
 - Name: Sesame Workshop
   Investment: Outschool
   Notes: ''
@@ -964,17 +1099,26 @@
 - Name: Signe Ostby
   Investment: Nearpod
   Notes: ''
+- Name: Signe Ostby
+  Investment: ThinkCERCA
+  Notes: ''
 - Name: Silicon Valley Bank
   Investment: CollegeVine
   Notes: ''
 - Name: Silver Lake
   Investment: SoFi
   Notes: ''
+- Name: Silversmith Capital Partners
+  Investment: Absorb
+  Notes: ''
 - Name: Sinovation Ventures
   Investment: Abl
   Notes: ''
 - Name: Sinovation Ventures
   Investment: VIPKID
+  Notes: ''
+- Name: Sinovation Ventures
+  Investment: Gaosi Education
   Notes: ''
 - Name: SJF Ventures
   Investment: Raise.me
@@ -984,6 +1128,9 @@
   Notes: ''
 - Name: Social Capital
   Investment: CreativeLive
+  Notes: ''
+- Name: Social Capital
+  Investment: Guild Education
   Notes: ''
 - Name: Social Impact Ventures
   Investment: Bomberbot
@@ -1015,6 +1162,9 @@
 - Name: Stanford-StartX Fund
   Investment: Nearpod
   Notes: ''
+- Name: Stanford-StartX Fund
+  Investment: Piper
+  Notes: ''
 - Name: Stephan Thomas
   Investment: Learnerbly
   Notes: ''
@@ -1039,8 +1189,14 @@
 - Name: SWaN
   Investment: Noodle Companies
   Notes: ''
+- Name: TAL Education Group
+  Investment: ThinkCERCA
+  Notes: ''
 - Name: Tashish Tulsian
   Investment: Unacademy
+  Notes: ''
+- Name: Task Force X Capital
+  Investment: Vemo Education
   Notes: ''
 - Name: Tencent Holdings
   Investment: Yuanfandao
@@ -1060,6 +1216,9 @@
 - Name: The Colorado Impact Fund
   Investment: SecureSet Academy
   Notes: ''
+- Name: The Hina Group
+  Investment: Gaosi Education
+  Notes: ''
 - Name: The Rise Fund
   Investment: EverFi
   Notes: ''
@@ -1068,6 +1227,9 @@
   Notes: ''
 - Name: TheFamily
   Investment: Side
+  Notes: ''
+- Name: 'Third Kind Venture Capital,'
+  Investment: Vemo Education
   Notes: ''
 - Name: Thomas Hoegh
   Investment: MyTutor
@@ -1126,6 +1288,21 @@
 - Name: University Ventures
   Investment: PeopleGrove
   Notes: ''
+- Name: University Ventures
+  Investment: Packback
+  Notes: ''
+- Name: University Ventures
+  Investment: EquitySim
+  Notes: ''
+- Name: University Ventures
+  Investment: Evertrue
+  Notes: ''
+- Name: University Ventures
+  Investment: Vemo Education
+  Notes: ''
+- Name: University Ventures
+  Investment: MissionU
+  Notes: ''
 - Name: Urban Innovation Fund
   Investment: BookNook
   Notes: ''
@@ -1159,6 +1336,9 @@
 - Name: Village Capital
   Investment: Pear Deck
   Notes: ''
+- Name: Village Capital
+  Investment: Kings Learning
+  Notes: ''
 - Name: Warburg Pincus
   Investment: Yuanfandao
   Notes: ''
@@ -1171,11 +1351,17 @@
 - Name: Welight Capital
   Investment: Snapask
   Notes: ''
+- Name: Whitecap Venture Partners
+  Investment: Classcraft
+  Notes: ''
 - Name: WI Harper Group
   Investment: Epic
   Notes: ''
 - Name: Wild Blue Cohort
   Investment: MiDrive
+  Notes: ''
+- Name: Wildcat Venture Partners
+  Investment: Tuition.io
   Notes: ''
 - Name: Winkelvoss Capital
   Investment: Clark
