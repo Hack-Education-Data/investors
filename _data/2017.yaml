@@ -190,7 +190,7 @@
 - Name: Breyer Capital
   Investment: Kano Computing
   Notes: ''
-- Name: Breyer Capital Venture
+- Name: Breyer Capital
   Investment: Grammarly
   Notes: ''
 - Name: Bright Success Capital
@@ -406,7 +406,7 @@
 - Name: Edelweiss
   Investment: Wonderschool
   Notes: ''
-- Name: Education For the Many
+- Name: Education for the Many
   Investment: Moodle
   Notes: ''
 - Name: Education for the Many
@@ -447,9 +447,6 @@
   Notes: ''
 - Name: Eric Schmidt
   Investment: EverFi
-  Notes: ''
-- Name: Eurazeo
-  Investment: WorldStrides
   Notes: ''
 - Name: Ev Williams
   Investment: EverFi
@@ -997,7 +994,7 @@
 - Name: Michael & Susan Dell Foundation
   Investment: Kings Learning
   Notes: ''
-- Name: Michael and Susan Dell Foundation
+- Name: Michael & Susan Dell Foundation
   Investment: BetterLesson
   Notes: ''
 - Name: Michael Dearing
@@ -1185,9 +1182,6 @@
   Notes: ''
 - Name: Portland Street Fund
   Investment: Lumen Learning
-  Notes: ''
-- Name: Primavera Capital Group
-  Investment: WorldStrides
   Notes: ''
 - Name: Prolog Ventures
   Investment: CareDox
@@ -1582,19 +1576,19 @@
 - Name: Thayer Ventures
   Investment: Viridis Learning
   Notes: ''
-- Name: The Colorado Impact Fund
+- Name: Colorado Impact Fund
   Investment: SecureSet Academy
   Notes: ''
-- Name: The Hina Group
+- Name: Hina Group
   Investment: Gaosi Education
   Notes: ''
-- Name: The House Fund
+- Name: House Fund
   Investment: O.School
   Notes: ''
-- Name: The Rise Fund
+- Name: Rise Fund
   Investment: EverFi
   Notes: ''
-- Name: The Yard Ventures
+- Name: Yard Ventures
   Investment: AdmitHub
   Notes: ''
 - Name: TheFamily
@@ -1827,4 +1821,106 @@
   Notes: ''
 - Name: ZhenFund
   Investment: Vidcode
+  Notes: ''
+- Name: Owl Ventures
+  Investment: Noodle Partners
+  Notes: ''
+- Name: Lightbox
+  Investment: Flintobox
+  Notes: ''
+- Name: Masada Kobayashi
+  Investment: Gakko
+  Notes: ''
+- Name: Susquehanna International Group
+  Investment: Graduway
+  Notes: ''
+- Name: Legend Capital
+  Investment: ALO7
+  Notes: ''
+- Name: Vickers Venture Partners
+  Investment: ALO7
+  Notes: ''
+- Name: New Oriental
+  Investment: ALO7
+  Notes: ''
+- Name: Qualcomm
+  Investment: ALO7
+  Notes: ''
+- Name: UG Investment
+  Investment: ALO7
+  Notes: ''
+- Name: GuoHe Capital
+  Investment: ALO7
+  Notes: ''
+- Name: Dila Capital
+  Investment: Kinedu
+  Notes: ''
+- Name: Stanford-StartX Fund
+  Investment: Kinedu
+  Notes: ''
+- Name: Stella Maris
+  Investment: Kinedu
+  Notes: ''
+- Name: Advenio
+  Investment: Kinedu
+  Notes: ''
+- Name: Social Capital
+  Investment: Kinedu
+  Notes: ''
+- Name: Promotora Social Mexico
+  Investment: Kinedu
+  Notes: ''
+- Name: Omidyar Network
+  Investment: Digital House
+  Notes: ''
+- Name: Martin Migoya
+  Investment: Digital House
+  Notes: ''
+- Name: Rise Fund
+  Investment: Digital House
+  Notes: ''
+- Name: Marcos Galperin
+  Investment: Digital House
+  Notes: ''
+- Name: Endeavor Catalyst
+  Investment: Digital House
+  Notes: ''
+- Name: Kaszek Ventures
+  Investment: Digital House
+  Notes: ''
+- Name: Costanoa Ventures
+  Investment: Springboard
+  Notes: ''
+- Name: Moneta Ventures
+  Investment: Springboard
+  Notes: ''
+- Name: Rocketship.vc
+  Investment: Springboard
+  Notes: ''
+- Name: Blue Fog Capital
+  Investment: Springboard
+  Notes: ''
+- Name: Jyoti Bansal
+  Investment: Springboard
+  Notes: ''
+- Name: Learn Capital
+  Investment: Springboard
+  Notes: ''
+- Name: Y Combinator
+  Investment: Peergrade
+  Notes: ''
+- Name: Futuristic.VC
+  Investment: Peergrade
+  Notes: ''
+- Name: Learn Capital
+  Investment: Peergrade
+  Notes: ''
+- Name: Nordic Makers
+  Investment: Peergrade
+  Notes: ''
+- Name: Project A
+  Investment: Peergrade
+  Notes: ''
+- Name: byFounders
+  Investment: Peergrade
   Notes: ''
